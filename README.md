@@ -1,4 +1,6 @@
-![logo](https://user-images.githubusercontent.com/86320001/151454946-477c3f25-5c29-437f-853f-ec406868bbfc.PNG)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/86320001/151454946-477c3f25-5c29-437f-853f-ec406868bbfc.PNG" alt="Logo" width=500 height=120 />
+</div>
 
 ---
 
