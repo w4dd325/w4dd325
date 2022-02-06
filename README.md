@@ -5,14 +5,17 @@
 ---
 
 ### :mag: Find me on :
-<a href="https://www.linkedin.com/in/james-wadley-246a6364/">
+<a href="https://www.linkedin.com/in/james-wadley-246a6364">
 <img src="https://user-images.githubusercontent.com/86320001/151449340-dc58cf50-d1ae-4ea7-a34b-f5fc7e4bb95d.png" alt="LinkedIn Badge" width=40 height=40 />	
 </a>
-<a href="https://w4dd325.wordpress.com/">
+<a href="https://w4dd325.wordpress.com">
 <img src="https://user-images.githubusercontent.com/86320001/151449361-3b0d13ec-853e-4f92-8da6-6c77b20cfc76.png" alt="WordPress Badge" width=40 height=40 />
 </a>
 <a href="https://stackoverflow.com/users/16409993/w4dd325">
 <img src="https://user-images.githubusercontent.com/86320001/151449390-aee8fd5a-c113-408c-a06b-ba8e2ff05d0e.png" alt="StackOverflow Badge" width=40 height=40 />
+</a>  
+<a href="https://community.postman.com/u/w4dd325">
+<img src="https://user-images.githubusercontent.com/86320001/152706514-e9c91ff0-2b20-4d3a-95d8-3a28b1c2d71d.png" alt="Community Postman Badge" width=40 height=40 />
 </a>  
 
 ---
