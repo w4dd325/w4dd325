@@ -37,12 +37,5 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width=40 height=40 />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width=40 height=40 />&nbsp;
 </div>
-
----
-
-### :bar_chart: My stats :
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w4dd325&langs_count=10)](https://github.com/w4dd325/github-readme-stats)
-  
 </h2>
 </div>
