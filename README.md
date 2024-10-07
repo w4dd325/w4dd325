@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/86320001/151455787-d2a76232-de41-4c73-984b-e1137eaa1831.png" alt="Logo" width=500 height=120 />
+<img src="https://github.com/user-attachments/assets/25e2a26e-a128-476d-8657-333d5155613c" alt="Logo" width=250 height=250 />
+
 </div>
 
-# :mag: Places you can find me
+# Places you can find me
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/james-wadley-246a6364">
 <img src="https://user-images.githubusercontent.com/86320001/151449340-dc58cf50-d1ae-4ea7-a34b-f5fc7e4bb95d.png" alt="LinkedIn Badge" width=40 height=40 />
