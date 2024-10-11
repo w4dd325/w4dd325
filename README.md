@@ -14,11 +14,11 @@
 [Newman Reporter HTMLExtra](https://github.com/DannyDainton/newman-reporter-htmlextra)  
 [Dice Cards](https://github.com/dowenb/dice-cards)  
 
-## :busts_in_silhouette: Community
+## :busts_in_silhouette: Community and Events
 [Co-organiser of the Ministry of Testing Coventry Meetup](https://www.meetup.com/ministry-of-testing-coventry/)  
 [TestBash 2024 Ambassador](https://www.ministryoftesting.com/events/testbash-brighton-2024)  
 
-## :open_book: Publications
+## :open_book: Publications and Appearances
 [Ministry of Testing 404 Talk - GitHub Desktop](https://www.ministryoftesting.com/talks/github-desktop-with-james-wadley)  
 Coming Soon ...  
 [Guest on This Week in Testing - Episode ## - Live from TestBash]()  
