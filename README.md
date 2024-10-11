@@ -20,3 +20,8 @@
 
 ## :open_book: Publications
 [Ministry of Testing 404 Talk - GitHub Desktop](https://www.ministryoftesting.com/talks/github-desktop-with-james-wadley)  
+Coming Soon ...  
+[Guest on This Week in Testing - Episode ## - Live from TestBash]()  
+[Guest on This Week in Testing - Episode ## - Live on LinkedIn]()  
+[Ministry of Testing 'Essentials' feedback discussion]()  
+[Ministry of Testing Article - Heisenbug]()  
