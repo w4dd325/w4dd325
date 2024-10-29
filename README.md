@@ -27,8 +27,9 @@
 
 ## :open_book: Publications and Appearances
 [Ministry of Testing 404 Talk - GitHub Desktop](https://www.ministryoftesting.com/talks/github-desktop-with-james-wadley)  
+[Ministry of Testing Article - Heisenbug](https://www.ministryoftesting.com/articles/heisenbugs-handling-software-defects-you-can-t-reproduce)  
 Coming Soon ...  
 [Guest on This Week in Testing - Episode ## - Live from TestBash]()  
 [Guest on This Week in Testing - Episode ## - Live on LinkedIn]()  
 [Ministry of Testing 'Essentials' feedback discussion]()  
-[Ministry of Testing Article - Heisenbug](https://www.ministryoftesting.com/articles/heisenbugs-handling-software-defects-you-can-t-reproduce)  
+
