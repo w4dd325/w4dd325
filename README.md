@@ -31,4 +31,4 @@ Coming Soon ...
 [Guest on This Week in Testing - Episode ## - Live from TestBash]()  
 [Guest on This Week in Testing - Episode ## - Live on LinkedIn]()  
 [Ministry of Testing 'Essentials' feedback discussion]()  
-[Ministry of Testing Article - Heisenbug]()  
+[Ministry of Testing Article - Heisenbug](https://www.ministryoftesting.com/articles/heisenbugs-handling-software-defects-you-can-t-reproduce)  
