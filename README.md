@@ -20,6 +20,7 @@
 ## :handshake: Open Source Contributions
 [Newman Reporter HTMLExtra](https://github.com/DannyDainton/newman-reporter-htmlextra)  
 [Dice Cards](https://github.com/dowenb/dice-cards)  
+[wick-a11y](https://github.com/sclavijosuero/wick-a11y)  
 
 ## :busts_in_silhouette: Community and Events
 [Co-organiser of the Ministry of Testing Coventry Meetup](https://www.meetup.com/ministry-of-testing-coventry/)  
