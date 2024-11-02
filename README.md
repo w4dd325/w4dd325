@@ -14,6 +14,8 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   </a><a href="https://api.badgr.io/public/collections/0ca0eac1137f4ac4937f7b1d0b50ca09" target="_blank" style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Canvas%20Badge-FF4500?style=for-the-badge&logo=canvas&logoColor=white"/>
+  </a><a href="https://dev.to/w4dd325/" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </div>
 
@@ -25,6 +27,9 @@
 ## :busts_in_silhouette: Community and Events
 [Co-organiser of the Ministry of Testing Coventry Meetup](https://www.meetup.com/ministry-of-testing-coventry/)  
 [TestBash 2024 Ambassador](https://www.ministryoftesting.com/events/testbash-brighton-2024)  
+
+## :page_facing_up: Blog Posts
+[Lets talk about wick-a11y](https://dev.to/w4dd325/lets-talk-about-wick-a11y-1afa) 
 
 ## :open_book: Publications and Appearances
 [Ministry of Testing 404 Talk - GitHub Desktop](https://www.ministryoftesting.com/talks/github-desktop-with-james-wadley)  
