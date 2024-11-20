@@ -35,9 +35,7 @@
 [Ministry of Testing 404 Talk - GitHub Desktop](https://www.ministryoftesting.com/talks/github-desktop-with-james-wadley)  
 [Ministry of Testing Article - Heisenbug](https://www.ministryoftesting.com/articles/heisenbugs-handling-software-defects-you-can-t-reproduce)  
 [Heisenbug article mentioned in Software Testing Weekly - issue 244](https://softwaretestingweekly.com/issues/244)  
-[Ministry of Testing Article - Guest on This Week in Testing - Episode 59 - Live from TestBash](https://www.youtube.com/watch?v=BHMgCC66rqI&t=2138s)  
-
-Coming Soon ...  
-[Ministry of Testing Article - Guest on This Week in Testing - Episode ## - Live on LinkedIn]()  
-[Ministry of Testing 'Essentials' feedback discussion]()  
+[Ministry of Testing - Guest on This Week in Testing - Episode 59 - Live from TestBash](https://www.youtube.com/watch?v=BHMgCC66rqI&t=2138s)  
+[Ministry of Testing - Guest on This Week in Testing - Episode 61 - Live on LinkedIn](https://youtu.be/stClSSozs4Y?t=2470)  
+[Ministry of Testing 'Essentials' certificate - Guest speaker for lesson 4: Receiving and giving feedback](https://www.ministryoftesting.com/certifications/mot-software-testing-essentials-certificate)  
 
