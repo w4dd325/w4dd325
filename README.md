@@ -29,7 +29,7 @@
 [TestBash 2024 Ambassador](https://www.ministryoftesting.com/events/testbash-brighton-2024)  
 
 ## :page_facing_up: Blog Posts
-[Lets talk about wick-a11y](https://dev.to/w4dd325/lets-talk-about-wick-a11y-1afa) 
+[Lets talk about wick-a11y](https://dev.to/w4dd325/lets-talk-about-wick-a11y-1afa)  
 [Cypress for the absolute beginner](https://dev.to/w4dd325/cypress-for-the-absolute-beginner-10fi) 
 
 ## :open_book: Publications and Appearances
