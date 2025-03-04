@@ -27,6 +27,7 @@
 ## :busts_in_silhouette: Community and Events
 [Co-organiser of the Ministry of Testing Coventry Meetup](https://www.meetup.com/ministry-of-testing-coventry/)  
 [TestBash 2024 Ambassador](https://www.ministryoftesting.com/events/testbash-brighton-2024)  
+[Ministry of Testing Ambassador 2025](https://www.ministryoftesting.com/ambassadors)
 
 ## :page_facing_up: Blog Posts
 [Lets talk about wick-a11y](https://dev.to/w4dd325/lets-talk-about-wick-a11y-1afa)  
