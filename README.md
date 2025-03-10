@@ -39,5 +39,5 @@
 [Heisenbug article mentioned in Software Testing Weekly - issue 244](https://softwaretestingweekly.com/issues/244)  
 [Ministry of Testing - Guest on This Week in Testing - Episode 59 - Live from TestBash](https://www.youtube.com/watch?v=BHMgCC66rqI&t=2138s)  
 [Ministry of Testing - Guest on This Week in Testing - Episode 61 - Live on LinkedIn](https://youtu.be/stClSSozs4Y?t=2470)  
-[Ministry of Testing 'Essentials' certificate - Guest speaker for lesson 4: Receiving and giving feedback](https://www.ministryoftesting.com/certifications/mot-software-testing-essentials-certificate)  
+[Ministry of Testing 'Essentials' certificate - Guest speaker for Module 3: The secret skill set of software testers - Lesson 4: Receiving and giving feedback](https://www.ministryoftesting.com/certifications/mot-software-testing-essentials-certificate)  
 [Ministry of Testing 'Essentials' certificate - Guest speaker for Module 16: Technical testing - Lesson 3: The dangers of over relying on tools](https://www.ministryoftesting.com/certifications/mot-software-testing-essentials-certificate)  
