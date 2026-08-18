@@ -16,10 +16,9 @@
     <img src="https://img.shields.io/badge/Canvas%20Badge-FF4500?style=for-the-badge&logo=canvas&logoColor=white"/>
   </a><a href="https://dev.to/w4dd325/" target="_blank" style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a><a href="https://www.curseforge.com/members/jw_mods/projects" target="_blank" style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
   </a>
-  <a href="[YOUR_CURSEFORGE_PROFILE_URL](https://www.curseforge.com/members/jw_mods/projects)" target="_blank" style="display: inline-block; margin: 10px;">
-  <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
-</a>
 </div>
 
 ## :handshake: Open Source Contributions
