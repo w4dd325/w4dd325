@@ -24,6 +24,9 @@
 [Dice Cards](https://github.com/dowenb/dice-cards)  
 [wick-a11y](https://github.com/sclavijosuero/wick-a11y)  
 
+## :crossed_swords: World of Warcraft Add-ons (Via CurseForge)
+[Power Bar Colour Picker](https://www.curseforge.com/wow/addons/power-bar-colour-picker)
+
 ## :busts_in_silhouette: Community and Events
 [Co-organiser of the Ministry of Testing Coventry Meetup](https://www.meetup.com/ministry-of-testing-coventry/)  
 [TestBash 2024 Ambassador](https://www.ministryoftesting.com/events/testbash-brighton-2024)  
